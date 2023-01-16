@@ -1,0 +1,58 @@
+{
+  "mal_id": 16498,
+  "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": "LHtdKWJdif4",
+    "url": "https://www.youtube.com/watch?v=LHtdKWJdif4",
+    "embed_url": "https://www.youtube.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": "https://img.youtube.com/vi/LHtdKWJdif4/default.jpg",
+      "small_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/sddefault.jpg",
+      "medium_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/mqdefault.jpg",
+      "large_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/hqdefault.jpg",
+      "maximum_image_url": "https://img.youtube.com/vi/LHtdKWJdif4/maxresdefault.jpg"
+    }
+  },
+
+  "title": "Shingeki no Kyojin",
+  "episodes": 25,
+  "aired": {
+    "from": "2013-04-07T00:00:00+00:00",
+    "to": "2013-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2013
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Apr 7, 2013 to Sep 29, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.53,
+  "rank": 108,
+  "popularity": 1,
+  "members": 3597464,
+  "favorites": 158151,
+  "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]",
+  "background": "Shingeki no Kyojin adapts content from the first 8 volumes of Hajime Isayama's award-winning manga of the same name. The last episode received a pre-airing in Tokyo, Marunouchi Piccadilly 1 theater on Saturday, September 28, 2013. TV broadcast took place after midnight, a few hours later. Shingeki no Kyojin won the Animation of the Year in the Television category at the Tokyo Anime Award Festival in 2014.",
+  "year": 2013
+}
